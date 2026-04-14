@@ -1,4 +1,5 @@
 # Single Page CV - HTML Semantik
+https://roadmap.sh/projects/single-page-cv
 
 Projek ini adalah implementasi resume profesional satu halaman menggunakan **HTML5 Semantik** murni. Fokus utama projek ini adalah pada struktur data yang bersih, aksesibilitas (accessibility), dan kemudahan dibaca oleh sistem ATS (Applicant Tracking System).
 
